@@ -8,5 +8,6 @@ Tu budem pisat kody, ktore sa objavia pocas mojho fungovania na predmete OZNAL.
 
 [Link na google drive](ttps://drive.google.com/drive/u/2/folders/1P8GyqFVLe_sFJz6rG7czly12GNOmBEkb)
 
+Toto je testovacia veta.
 ---
 
